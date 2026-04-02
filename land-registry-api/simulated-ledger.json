@@ -1,0 +1,108 @@
+[
+  {
+    "Key": "SURAT-001",
+    "Record": {
+      "parcelId": "SURAT-001",
+      "ulpin": "99887766554433",
+      "ownerName": "Rahul Patel",
+      "area": "150 sq meters",
+      "location": "Adajan, Surat, Gujarat",
+      "marketValue": "12000000",
+      "ownershipType": "PRIVATE",
+      "ownerAadhar": "XXXX-XXXX-XXXX",
+      "status": "PENDING",
+      "registrationDate": "2026-03-31T11:47:33.483Z",
+      "lastUpdated": "2026-03-31T11:47:33.484Z",
+      "docHash": "qspbbv6ke0gupdsrfl8qc",
+      "transferHistory": [
+        {
+          "requestId": "REQ-1774957653582",
+          "fromOwner": "Rahul Patel",
+          "toOwner": "Priya Sharma",
+          "toAadhar": "123412341234",
+          "dateRequested": "2026-03-31T11:47:33.593Z"
+        }
+      ]
+    }
+  },
+  {
+    "Key": "SURAT-002",
+    "Record": {
+      "parcelId": "SURAT-002",
+      "ulpin": "22334455667788",
+      "ownerName": "rudra bundeliya",
+      "area": "500 sq meters",
+      "location": "Vesu, Surat, Gujarat",
+      "marketValue": "50000000",
+      "ownershipType": "PRIVATE",
+      "ownerAadhar": "237627526424",
+      "status": "ACTIVE",
+      "registrationDate": "2026-03-31T11:47:33.512Z",
+      "lastUpdated": "2026-03-31T12:22:38.766Z",
+      "docHash": "w4qzjyf47ymr4may9ah4ym",
+      "transferHistory": [
+        {
+          "requestId": "REQ-1774958221847",
+          "fromOwner": "Vesu Developcorp",
+          "toOwner": "rudra bundeliya",
+          "toAadhar": "237627526424",
+          "dateRequested": "2026-03-31T11:57:01.848Z"
+        }
+      ]
+    }
+  },
+  {
+    "Key": "SURAT-003",
+    "Record": {
+      "parcelId": "SURAT-003",
+      "ulpin": "55667788990011",
+      "ownerName": "SMC Public Park",
+      "area": "2000 sq meters",
+      "location": "Piplod, Surat, Gujarat",
+      "marketValue": "150000000",
+      "ownershipType": "PUBLIC",
+      "ownerAadhar": "XXXX-XXXX-XXXX",
+      "status": "ACTIVE",
+      "registrationDate": "2026-03-31T11:47:33.533Z",
+      "lastUpdated": "2026-03-31T11:47:33.533Z",
+      "docHash": "nm147tj1luksuikrelwo8",
+      "transferHistory": []
+    }
+  },
+  {
+    "Key": "SURAT-004",
+    "Record": {
+      "parcelId": "SURAT-004",
+      "ulpin": "44332211009988",
+      "ownerName": "Kajal Shah",
+      "area": "90 sq meters",
+      "location": "Varachha, Surat, Gujarat",
+      "marketValue": "4500000",
+      "ownershipType": "PRIVATE",
+      "ownerAadhar": "XXXX-XXXX-XXXX",
+      "status": "ACTIVE",
+      "registrationDate": "2026-03-31T11:47:33.552Z",
+      "lastUpdated": "2026-03-31T11:47:33.552Z",
+      "docHash": "mcv3vt1a6vfk8n5904sjf",
+      "transferHistory": []
+    }
+  },
+  {
+    "Key": "SURAT-005",
+    "Record": {
+      "parcelId": "SURAT-005",
+      "ulpin": "77778888999900",
+      "ownerName": "Prakash Desai",
+      "area": "300 sq meters",
+      "location": "Palsana, Surat, Gujarat",
+      "marketValue": "8500000",
+      "ownershipType": "PRIVATE",
+      "ownerAadhar": "XXXX-XXXX-XXXX",
+      "status": "ACTIVE",
+      "registrationDate": "2026-03-31T11:47:33.573Z",
+      "lastUpdated": "2026-03-31T11:47:33.573Z",
+      "docHash": "0bawxqkkslfms5otzrypopm",
+      "transferHistory": []
+    }
+  }
+]

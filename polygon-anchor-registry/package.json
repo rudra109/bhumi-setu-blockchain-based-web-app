@@ -1,0 +1,22 @@
+{
+  "name": "polygon-anchor-registry",
+  "version": "1.0.0",
+  "description": "AnchorRegistry smart contract for Polygon Amoy – anchors Fabric land parcel hashes on-chain",
+  "scripts": {
+    "compile":    "hardhat compile",
+    "test":       "hardhat test",
+    "test:gas":   "REPORT_GAS=true hardhat test",
+    "node":       "hardhat node",
+    "deploy":     "hardhat run scripts/deploy.js --network amoy",
+    "deploy:local": "hardhat run scripts/deploy.js --network hardhat",
+    "verify":     "hardhat run scripts/verify.js --network amoy",
+    "clean":      "hardhat clean"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.2"
+  }
+}
